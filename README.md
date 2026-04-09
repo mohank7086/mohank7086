@@ -17,7 +17,9 @@ I build automation tools that bridge application support and DevOps — Python a
 **Languages & scripting:** Python · Bash · PowerShell · SQL  
 **Cloud & infra:** Azure · Ansible · Linux · Windows Server · Active Directory  
 **Observability:** Splunk · Dynatrace · Postman · curl  
-**Platforms:** Salesforce · ServiceNow · Jira · Git/GitHub · Power BI  
+**API & debugging:** REST APIs · HTTP status codes · API error handling · curl · Postman  
+**Version control:** Git · GitHub · branching · commit workflows  
+**Platforms:** Salesforce · ServiceNow · Jira · Git/GitHub · Power BI
 
 ---
 
@@ -25,9 +27,8 @@ I build automation tools that bridge application support and DevOps — Python a
 
 | Project | Description |
 |---|---|
-| **JobCraft AI** | AI-powered resume & cover letter generator using Groq API + pypdf. Hosted on Netlify. |
-| **PyLingo** | Gamified Python learning platform for IT ops professionals — 30 structured lessons. |
-| **job_apply_agent.py** | Local Python automation agent generating tailored job application materials from a JD. |
+| **JobCraft AI** | AI-powered resume & cover letter generator using Groq API + pypdf. [Try it live →](https://cvbuild-assist.netlify.app) |
+| **Patch Operations Dashboard** | Real-time role-based server patching dashboard. [Try it live →](https://pmonitor1.netlify.app) |
 
 ---
 
