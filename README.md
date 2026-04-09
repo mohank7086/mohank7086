@@ -27,8 +27,8 @@ I build automation tools that bridge application support and DevOps — Python a
 
 | Project | Description |
 |---|---|
-| **JobCraft AI** | AI-powered resume & cover letter generator using Groq API + pypdf. [Try it live →](https://cvbuild-assist.netlify.app) |
-| **Patch Operations Dashboard** | Real-time role-based server patching dashboard. [Try it live →](https://pmonitor1.netlify.app) |
+| **JobCraft AI** | AI-powered resume & cover letter generator using Groq API + pypdf. 
+| **Patch Operations Dashboard** | Real-time role-based server patching dashboard. 
 
 ---
 
