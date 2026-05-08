@@ -1,4 +1,4 @@
-# Hi, I'm Mohan Kumar K (Gus) 👋
+# Hi, I'm Mohan Kumar K👋
 
 **Senior Application Support Engineer** → transitioning to **Platform / Infrastructure Automation Engineer**
 📍 Bangalore, India
